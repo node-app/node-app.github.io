@@ -32,13 +32,11 @@ a, a:hover, a:active {
   text-indent: -9999px;
 }
 
-.btn#fork {
-  background-color: #8CC84B;
-  transition: 1s background-color;
-  border-color: #fff;
-  border-width: 5px;
+.btn#subscribe {
+  background-color: #5e9720;
+  border-color: #480;
 }
-.btn#fork:hover {
+.btn#subscribe:hover {
   background-color: #480;
 }
 
