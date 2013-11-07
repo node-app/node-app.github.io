@@ -75,6 +75,11 @@ a, a:hover, a:active {
   margin-bottom: 28px;
 }
 
+/* Supporting testimonial content */
+.testimonials {
+  margin: 40px 0;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   /* Remove the padding we set earlier */
