@@ -34,11 +34,11 @@ a, a:hover, a:active {
 }
 
 .btn#subscribe {
-  background-color: #5e9720;
-  border-color: #480;
+  background-color: #fff;
+  border-color: #fff;
 }
 .btn#subscribe:hover {
-  background-color: #480;
+  background-color: #2d2d25;
 }
 
 /* Custom page footer */
@@ -51,7 +51,7 @@ a, a:hover, a:active {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 1000px;
   }
 }
 .container-narrow > hr {
@@ -61,11 +61,11 @@ a, a:hover, a:active {
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
-  background-color: #8CC84B;
+  background: #8CC84B;
   border-bottom: 1px solid #e5e5e5;
 }
 .jumbotron a {
-  color: #fff;
+  color: #2d2d25;
 }
 .jumbotron .btn {
   font-size: 21px;
@@ -112,5 +112,7 @@ a, a:hover, a:active {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+    background-image: url(green.jpg);
+    background-size: 100%;
   }
 }
