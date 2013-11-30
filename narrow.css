@@ -35,7 +35,7 @@ a, a:hover, a:active {
 
 .btn#subscribe {
   background-color: #fff;
-  border-color: #fff;
+  border-color: transparent;
 }
 .btn#subscribe:hover {
   background-color: #2d2d25;
